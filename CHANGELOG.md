@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.2](https://github.com/liziyang168/timber/compare/v2.3.1...v2.3.2) (2026-07-15)
+
+
+### Bug Fixes
+
+* Fix typos in source code([#3077](https://github.com/liziyang168/timber/issues/3077)) ([d7b3b80](https://github.com/liziyang168/timber/commit/d7b3b804c3244083f6ae60e9f760f86aa512b054))
+
 ## [2.3.1](https://github.com/timber/timber/compare/v2.3.0...v2.3.1) (2024-12-18)
 
 
